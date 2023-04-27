@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadRifqi20
 - 👀 I’m interested in Software Engineer and IoT
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning REST API - Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: muhammadrifqiamirp20@gmail.com
 
